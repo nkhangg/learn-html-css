@@ -16,7 +16,7 @@
 
 .item {
     text-align: center;
-    border: 1px solid #ccc;
+    border: 1px solid red;
     grid-row: 1fr;
     margin: 0 4px;
 }
